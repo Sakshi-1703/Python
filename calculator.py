@@ -1,0 +1,16 @@
+a=int(input('enter 1st number'))
+b=int(input('enter 2nd number'))
+c=a+b
+d=a-b
+e=a*b
+f=a/b
+g=a%b
+h=a//b
+i=a**b
+print('sum =',c)
+print('difference =',d)
+print('multiplication =',e)
+print('division =',f)
+print('modulous =',g)
+print('floor division =',h)
+print('exponent =',i)
